@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Java full stack Repositories**
 
-- 🌱 I’m currently learning ** Java & DSA**
+- 🌱 I’m currently learning **Java & DSA**
 
 
 
