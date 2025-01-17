@@ -67,8 +67,8 @@ I believe **code** is like art — it should be both functional and beautiful. W
 ---
 
 ## 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=aman-kumar-gautam&show_icons=true&count_private=true&theme=dark&hide_title=true" alt="Aman-Kumar-Gautam GitHub stats"/>
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Kumar-Gautam&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
 ---
 
