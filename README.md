@@ -1,67 +1,96 @@
-<h1 align="center">Hello 👋, I'm Aman Kumar Gautam</h1>
-<h3 align="center">A passionate software developer from India</h3>
+# 👋 Hi, I'm Aman Gautam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-kumar-gautam&label=Profile%20views&color=0e75b6&style=flat" alt="aman-kumar-gautam" /> </p>
+**Aspiring Software Developer | Tech Enthusiast | Lifelong Learner**  
+🌍 _Bangalore, India_  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-kumar-gautam" alt="aman-kumar-gautam" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Java full stack Repositories**
+I am a passionate **Software Developer** with a focus on **Java**, **React**, **Spring Boot**, **Python**, and **AWS**. Currently, I'm exploring the ever-evolving world of software development and constantly pushing the boundaries of my knowledge. With over **2 years of experience** in **Technical Support** and **Software Development**, I thrive on solving problems, learning new technologies, and creating impactful solutions.
 
-- 🌱 I’m currently learning **Java & DSA**
+- 💻 **Current Focus**: Building scalable, high-performance systems and mastering cloud technologies.
+- 🌱 **Learning**: Enhancing my skills in **Cloud Computing** and **AI/ML**.
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🔧 Skills & Technologies
 
-  - 📫 How to reach me **: amangautam862@gmail.com**
-</p>
+- **Languages**: Java, Python, JavaScript, C
+- **Frontend**: React, HTML, CSS
+- **Backend**: Spring Boot, Hibernate, JPA, JDBC
+- **Database**: MySQL, Firebase
+- **Tools & Platforms**: AWS, Git, Tomcat, REST APIs, Firebase, Payment Gateway Integration
+- **Methodologies**: Agile, Scrum
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+## 🛠️ Projects
 
-- 📫 Programming language:       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a> 
+### 🌐 [Blog Application (Java Full Stack)](https://github.com/Aman-Kumar-Gautam/blog-application)  
+A fully responsive blog platform built using **Java**, **Spring Boot**, **React**, and **MySQL**.  
+_**Features**_: User authentication, CRUD operations, Search, and Comment sections.  
+---
 
-  - 📫 Front End Tech:             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-                                    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- - 📫 Front-End Frame Work:                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    
-  - 📫 Back End Tech:               <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-                                     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-    
-  - 📫 Data Base:                   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-                                    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-                                    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-    
- 
-  
-  - 📫 Other Skills:               <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-                                    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-                                    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-                                    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-                                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+### 💬 [WhatsApp Chat Clone (React)](https://github.com/Aman-Kumar-Gautam/whatsapp-chat-clone)  
+A replica of WhatsApp built with **React**, featuring real-time messaging and notifications.  
+_**Features**_: Real-time chat, message notifications, and media sharing.
 
+---
 
- 
+## 🌱 Learning & Development
 
+I am a firm believer in continuous learning, and I am currently:
+- Exploring **Cloud Solutions** with **AWS** to deploy scalable applications.
+- Sharpening my **Problem-Solving** skills by solving daily challenges on **LeetCode** and **Codeforces**.
 
+---
 
+## 🏆 Achievements
 
- 
+- **Google IT Automation with Python Professional Certificate**: Gained proficiency in **Python**, **Automation**, and **Git**.
+- **Top 10%** in my cohort at **Radharaman Institute of Technology and Science**, Bhopal.
 
+---
 
- 
- 
- 
+## 📣 Let's Connect!
 
-</p>
+- 💼 **LinkedIn**: [Aman Gautam](https://www.linkedin.com/in/aman-gautam-98398717a)
+- 📧 **Email**: amangautam862@gmail.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-kumar-gautam&show_icons=true&locale=en&layout=compact" alt="aman-kumar-gautam" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-kumar-gautam&show_icons=true&locale=en" alt="aman-kumar-gautam" /></p>
+## 📚 Fun Fact
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-kumar-gautam&" alt="Aman-Kumar-Gautam g" /></p>
+I believe **code** is like art — it should be both functional and beautiful. When I'm not coding, you can find me reading books, exploring new tech podcasts, or practicing my chess strategies!
+
+---
+
+## 📈 GitHub Stats
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Kumar-Gautam&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+
+---
+
+## 📊 Profile Analytics
+
+- **Profile Views**: <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-kumar-gautam&label=Profile%20views&color=0e75b6&style=flat" alt="aman-kumar-gautam" /> </p>
+
+---
+
+## 📉 GitHub Activity
+
+- **Longest Streak**:  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-kumar-gautam&" alt="Aman-Kumar-Gautam g"&layout=compact&theme=dark /></p>
+
+---
+ 🌍 Most Used Languages
+
+Check out the languages I use the most to build awesome projects! Here’s a peek at my **Top Used Programming Languages**:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar-Gautam&layout=compact&theme=dark)
+
+---
+
+> _"I’m not a great programmer, I’m just a good one with a lot of curiosity."_  
+— **Aman Gautam**
