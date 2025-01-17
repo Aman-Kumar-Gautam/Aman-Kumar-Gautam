@@ -2,18 +2,14 @@
 
 **Aspiring Software Developer | Tech Enthusiast | Lifelong Learner**  
 🌍 _Bangalore, India_  
-
 ---
-
 ## 🚀 About Me
-
 I am a passionate **Software Developer** with a focus on **Java**, **React**, **Spring Boot**, **Python**, and **AWS**. Currently, I'm exploring the ever-evolving world of software development and constantly pushing the boundaries of my knowledge. With over **2 years of experience** in **Technical Support** and **Software Development**, I thrive on solving problems, learning new technologies, and creating impactful solutions.
 
 - 💻 **Current Focus**: Building scalable, high-performance systems and mastering cloud technologies.
 - 🌱 **Learning**: Enhancing my skills in **Cloud Computing** and **AI/ML**.
 
 ---
-
 ## 🔧 Skills & Technologies
 
 - **Languages**: Java, Python, JavaScript, C
@@ -94,3 +90,9 @@ Check out the languages I use the most to build awesome projects! Here’s a pee
 
 > _"I’m not a great programmer, I’m just a good one with a lot of curiosity."_  
 — **Aman Gautam**
+
+<h3 align="center">Total Contributions:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
